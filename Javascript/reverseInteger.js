@@ -25,7 +25,7 @@ var reverse = function (x) {
     while (x !== 0) {
 
         const digit = x % 10
-        if (wouldExceedLimit(rev, digit))
+        if (wouldExceedLimit(rev, digit))//[-231, 231 - 1], then return 0.
             return 0
         rev = (rev * 10) + digit
         x = ~~(x / 10);
