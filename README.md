@@ -10,7 +10,7 @@ Click the links below to switch between the different learning tracks:
 
 | Topic | Branch | Description |
 | :--- | :--- | :--- |
-| ☁️ **Google Cloud** | [`GCP`](../../tree/gcp) | GCP in28minutes pdf |
+| ☁️ **Google Cloud** | [`GCP`](../../tree/GCP) | GCP in28minutes pdf |
 | 🏆 **HackerRank** | [`hackerrank`](../../tree/hackerrank) | Solutions for various HackerRank domains. |
 | 💡 **LeetCode** | [`leetcode`](../../tree/leetcode) | Algorithm practice and data structure implementations. |
 
